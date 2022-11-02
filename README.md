@@ -22,7 +22,7 @@ The task is to bring out insights about:
 
 <h2>Data Preparation</h2>
 
-In order to work with specific columns we splited in Excel the original file in two tables 'CovidDeaths' and 'CovidVaccinations'.
+In order to work with specific columns we splited in Excel the original file in two tables 'CovidDeaths' and 'CovidVaccinations'(too large file to upload).
 
 Then we explored data in Microsoft SQL Server.
 
