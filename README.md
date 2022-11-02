@@ -16,9 +16,7 @@ The task is to bring out insights about:
 
 -What is the percentage of population that was infected per country.
 
--How many deaths there were per continent.
-
--What is the percentage of population that was infected per country across months.
+-What is the average percentage of population that was infected per country across months.
 
 -How many deaths from total cases and what is the death percentage.
 
@@ -35,6 +33,13 @@ Then we explored data in Microsoft SQL Server.
 ![Dashboard 1](https://user-images.githubusercontent.com/114480002/199582208-590b2454-6d72-41de-9341-2a39916cbd12.png)
 
 <h2>INSIGHTS</h2>
+
+Europe is the continent with the highest rate of deaths.
+
+Despite the fact that the total cases got over 600,000,000 the death percentage is 1.06.
+
+The country with the most population infected is United States followed by India.
+
 
 
 
